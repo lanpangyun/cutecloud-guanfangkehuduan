@@ -1,4 +1,4 @@
-# CuteCloud官网下载客户端下载及Cutecloud客户端兼容性说明
+# CuteCloud官网下载客户端及Cutecloud客户端兼容性说明
 【## 🚀 请关注像Cutecloud 一样超低价机场 [https://github.com/lanpangyun/yiyuanjichang](https://github.com/lanpangyun/yiyuanjichang)】
 ## 🚀 Cutecloud 线路调度系统升级说明
 
@@ -8,7 +8,7 @@
 
 ## 📢 更新公告
 
-近期 Cutecloud 已完成线路调度系统优化，国际线路已全面启用**新一代自动调度机制**。
+近期 Cutecloud官网已完成线路调度系统优化，国际线路已全面启用**新一代自动调度机制**。
 
 本次升级后，节点在以下方面均有提升：
 
@@ -99,8 +99,8 @@
 - CuteCloud 0.8.93
 - 
 [CuteCloud for Windows 0.8.93](https://dl.cutecloud.net/CuteCloud-windows-0.8.93-build1-setup.exe)
-[CuteCloud for Mac 0.8.93](https://dl.cutecloud.net/CuteCloud-macos-0.8.93-build1-universal.dmg)
-[CuteCloud for Android 0.8.92](https://dl.cutecloud.net/CuteCloud-android-0.8.93-build1-universal.apk)
+-[CuteCloud for Mac 0.8.93](https://dl.cutecloud.net/CuteCloud-macos-0.8.93-build1-universal.dmg)
+-[CuteCloud for Android 0.8.92](https://dl.cutecloud.net/CuteCloud-android-0.8.93-build1-universal.apk)
 
 - CuteCloud Beta 1.6.4  
 
